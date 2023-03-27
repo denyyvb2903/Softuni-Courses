@@ -1,5 +1,6 @@
 function myCat(input) {
 
+
     class Cat {
 
         constructor(name, age) {
@@ -23,6 +24,8 @@ function myCat(input) {
         newCat.meow();
 
     }
+
+    
 
 }
 myCat([`Candy 1`, `Poppy 3`, `Nyx 2`]);

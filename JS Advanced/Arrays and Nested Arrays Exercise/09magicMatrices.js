@@ -10,7 +10,7 @@ function magic(matrix) {
             sumRow += matrix[i][j];
             sumCol += matrix[j][i];
         }
-
+        
         if (total !== sumRow || total !== sumCol) {
             return false;
         }

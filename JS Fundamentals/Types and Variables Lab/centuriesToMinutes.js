@@ -7,4 +7,4 @@ function solve(centuries) {
 
     console.log(`${centuries} centuries = ${years} years = ${days} days = ${hours} hours = ${minutes} minutes`);
 }
-solve(5);
+solve(2);

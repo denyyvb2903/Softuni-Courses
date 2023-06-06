@@ -14,7 +14,7 @@ function solve (number, operator, number1) {
     console.log(result.toFixed(2));
 
 }
-solve(5,
+solve(50,
     '+',
     10
     );

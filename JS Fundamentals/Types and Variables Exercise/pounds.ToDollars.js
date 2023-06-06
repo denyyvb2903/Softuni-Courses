@@ -5,4 +5,4 @@ function solve (pounds) {
     console.log(dollar.toFixed(3));
 
 }
-solve(80);
+solve(50);
